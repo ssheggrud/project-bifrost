@@ -7,7 +7,7 @@
 ### 🔗 Quick Navigation <a name="quick-navigation"></a>
 
 - 🌉 [Bifröst Blueprints (Design Curriculum)](blueprints/00_readme.md)  
-- 📜 [Portfolio](continuing_education/README.md)  
+- 📜 [Portfolio](portfolio/README.md)  
 - 📚 [Folder Structure & System Map](#folder-structure) 
 - 🧠 [Philosophy & Ethics Foundations](philosophy/README.md)  
 - 🗣️ [Tone & Language Design](tone/README.md)  
