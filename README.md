@@ -1,4 +1,4 @@
-# Project Bifrost
+**Project Bifrost** - *What happens when you give a bored neurodivergent writer who has forgotten how to craft stories access to ChatGPT with no restrictions.*
 
 **Bridging human experience with system understanding.**
 
