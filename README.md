@@ -50,6 +50,8 @@ It is **patient-built**—by those who were and still are talked over, misdiagno
 - `prompts/` – symptom descriptors, sensory language mapping, system output translators  
 - `examples/` – use-case logs, test scenarios, communication breakdown samples  
 - `mari_archive/` – quotes, reflections, in-progress frameworks, and AI narrative philosophy  
+- `blueprints/` – modular curriculum for emotionally intelligent system design (Bifröst Blueprints)  
+- `continuing_education/` – tracked coursework in AI ethics, design, privacy, and systems learning
 
 ---
 
