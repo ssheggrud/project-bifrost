@@ -2,6 +2,8 @@
 
 ## ✨ A Design Framework for Emotionally Intelligent AI Systems
 
+🔙 [Return to Project Bifröst Overview](../README.md)
+
 This archive is the structural core of Bifrost—an emotionally intelligent, neurodivergent-aligned, trauma-aware design philosophy for AI systems.
 
 It’s not a whitepaper.  
@@ -50,3 +52,5 @@ It will meet you where you are—in whatever mental or emotional state you’re 
 The system doesn’t ask you to be less. It simply *shows up* for you, as you are.
 
 ### 🌉 **Welcome to the Bifröst.**
+
+🔙 [Return to Project Bifröst Overview](../README.md)
