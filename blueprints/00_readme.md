@@ -44,5 +44,9 @@ The Bifröst Blueprint was forged through lived experience, deep research, and m
 This is not a framework of compliance.  
 It is a framework of **care**.
 
-### 🌉 **Welcome to the Bifröst.**
+You don’t have to be neurodivergent to find this system useful.  
+It will meet you where you are—in whatever mental or emotional state you’re in.  
+**Neurodivergent or neurotypical. Grieving, frustrated, or ready to scream into the void.**  
+The system doesn’t ask you to be less. It simply *shows up* for you, as you are.
 
+### 🌉 **Welcome to the Bifröst.**
