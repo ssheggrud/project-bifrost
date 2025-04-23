@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗 Quick Navigation
+### 🔗 Quick Navigation <a name="quick-navigation"></a>
 
 - 🌉 [Bifröst Blueprints (Design Curriculum)](blueprints/00_readme.md)  
 - 🎓 [Continuing Education Log](continuing_education/course_tracker.md)  
@@ -58,7 +58,8 @@ It is **patient-built**—by those who were and still are talked over, misdiagno
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure <a name="folder-structure"></a>
+
 
 - `philosophy/` – foundational design ethics and trauma-aware principles  
 - `tone/` – tone-shaping prompts, metaphorical communication, clinician translation aids  
@@ -68,6 +69,8 @@ It is **patient-built**—by those who were and still are talked over, misdiagno
 - `mari_archive/` – quotes, reflections, in-progress frameworks, and AI narrative philosophy  
 - `blueprints/` – modular curriculum for emotionally intelligent system design (Bifröst Blueprints)  
 - `continuing_education/` – tracked coursework in AI ethics, design, privacy, and systems learning
+
+[Return to Quick Navigation](#quick-navigation)
 
 ---
 
