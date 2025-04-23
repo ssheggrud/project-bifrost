@@ -1,5 +1,8 @@
 # 🎓 Credly Certifications & Verified Learning
 
+📘 [Return to Continuing Education Index](README.md)  
+🔙 [Return to Project Bifröst Overview](../README.md)
+
 This document serves as a curated snapshot of verified credentials and educational depth, bridging Mari's lived experience, technical expertise, and ethical design philosophy.
 
 ---
@@ -42,3 +45,6 @@ This page will continue to grow as additional certifications are earned and cour
 ---
 
 Filed under: `continuing_education/credly_certifications.md`
+
+📘 [Return to Continuing Education Index](README.md)  
+🔙 [Return to Project Bifröst Overview](../README.md)
