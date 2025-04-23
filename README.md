@@ -8,7 +8,7 @@
 
 - 🌉 [Bifröst Blueprints (Design Curriculum)](blueprints/00_readme.md)  
 - 🎓 [Continuing Education Log](continuing_education/course_tracker.md)  
-- 📚 [Folder Structure & System Map](#folder-structure) *(scroll to view)*  
+- 📚 [Folder Structure & System Map](#folder-structure) 
 - 🧠 [Philosophy & Ethics Foundations](philosophy/)  
 - 🗣️ [Tone & Language Design](tone/)  
 - 🧵 [Prompt Translation Tools](prompts/)  
