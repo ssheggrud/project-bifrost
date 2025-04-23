@@ -10,8 +10,8 @@ These are **not sanitized test cases**—they are **empathic case studies** pull
 
 ### 📂 Files in this section:
 
-- `migraine_ai_translation.md` — Demonstrates how to convey complex, nonlinear pain experiences to AI in a way that invites support instead of confusion or minimization.  
-- `grief_conversation.md` — Explores how AI can hold emotional space in the wake of loss, avoiding platitudes and instead offering presence, reflection, and care.
+- [Migraine AI Translation](migraine_ai_translation.md) — Demonstrates how to convey complex, nonlinear pain experiences to AI in a way that invites support instead of confusion or minimization.  
+- [Grief Conversation](grief_conversation.md) — Explores how AI can hold emotional space in the wake of loss, avoiding platitudes and instead offering presence, reflection, and care.
 
 ---
 
