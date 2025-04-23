@@ -1,6 +1,6 @@
 # Course Tracker
 
-📘 [Return to Continuing Education Index](README.md)  
+📘 [Return to Portfolio Index](README.md)  
 🔙 [Return to Project Bifröst Overview](../README.md)
 
 ✨ **Core Learning Path with a focus on AI** ✨  
@@ -58,7 +58,7 @@ Logged under: *Foxlight Core • Learning Path • Systems With Soul*
 - [Ethics and AI: A Philosophical Guide to Responsible Use](https://www.coursera.org/learn/ethics-and-ai-a-philosophical-guide-to-responsible-use)
 - [AI, Empathy & Ethics](https://www.coursera.org/learn/ai-empathy-ethics)
 
-📘 [Return to Continuing Education Index](README.md)  
+📘 [Return to Portfolio Index](README.md)  
 🔙 [Return to Project Bifröst Overview](../README.md)
 
 ---
