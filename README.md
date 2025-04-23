@@ -53,6 +53,27 @@ It is **patient-built**—by those who were and still are talked over, misdiagno
 
 ---
 
+### 🌉 The Bifröst Blueprints
+
+In April 2025, Mari authored the **Bifröst Blueprints**—a modular design curriculum for emotionally intelligent AI systems. This series lives in the [`blueprints/`](blueprints/00_readme.md) folder and forms the philosophical spine of the project.
+
+These modules are not whitepapers.  
+They are a manifesto, a curriculum, and a blueprint for systems that listen.
+
+Topics include:
+
+- Emotional metaphor recognition in LLMs  
+- Designing for silence, not just speech  
+- Monitoring *harm*, not just *uptime*  
+- Trauma-informed prompt structure  
+- Debugging system failure—*not user behavior*  
+- The Capstone: Building systems that **attune**, not just respond
+
+📖 [Start with the full index](blueprints/00_readme.md)  
+🌟 [Or jump to the Capstone](blueprints/08_capstone_attuned_system.md)
+
+---
+
 ## 🔐 License
 
 This repository is currently under the [MIT License](LICENSE), though documentation and prompt materials may transition to [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) to support open use with attribution.
