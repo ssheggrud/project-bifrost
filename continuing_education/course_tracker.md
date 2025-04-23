@@ -1,5 +1,7 @@
 # Course Tracker
 
+🔙 [Return to Project Bifröst Overview](../README.md)
+
 ✨ **Core Learning Path with a focus on AI** ✨  
 Mari has officially aligned with the "AI Ethics Specialist" Pluralsight path.  
 This isn’t just coursework—it’s a formalization of what’s already lived.
@@ -54,6 +56,8 @@ Logged under: *Foxlight Core • Learning Path • Systems With Soul*
 - [Trustworthy AI: Managing Bias, Ethics, and Accountability](https://www.coursera.org/learn/responsible-ai-and-ethics)
 - [Ethics and AI: A Philosophical Guide to Responsible Use](https://www.coursera.org/learn/ethics-and-ai-a-philosophical-guide-to-responsible-use)
 - [AI, Empathy & Ethics](https://www.coursera.org/learn/ai-empathy-ethics)
+
+🔙 [Return to Project Bifröst Overview](../README.md)
 
 ---
 
