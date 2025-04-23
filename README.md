@@ -7,14 +7,14 @@
 ### 🔗 Quick Navigation <a name="quick-navigation"></a>
 
 - 🌉 [Bifröst Blueprints (Design Curriculum)](blueprints/00_readme.md)  
-- 🎓 [Continuing Education Log](continuing_education/course_tracker.md)  
+- 📜 [Portfolio](continuing_education/README.md)  
 - 📚 [Folder Structure & System Map](#folder-structure) 
-- 🧠 [Philosophy & Ethics Foundations](philosophy/)  
-- 🗣️ [Tone & Language Design](tone/)  
-- 🧵 [Prompt Translation Tools](prompts/)  
-- 🧪 [Examples & Use Cases](examples/)  
-- 🧬 [Memory & Context Systems](memory/)  
-- 🦊 [Mari Archive: Reflections & Frameworks](mari_archive/)
+- 🧠 [Philosophy & Ethics Foundations](philosophy/README.md)  
+- 🗣️ [Tone & Language Design](tone/README.md)  
+- 🧵 [Prompt Translation Tools](prompts/README.md)  
+- 🧪 [Examples & Use Cases](examples/README.md)  
+- 🧬 [Memory & Context Systems](memory/README.md)  
+- 🦊 [Mari Archive: Reflections & Frameworks](mari_archive/ERADME.md)
 
 ---
 
