@@ -2,6 +2,22 @@
 
 **Bridging human experience with system understanding.**
 
+---
+
+### 🔗 Quick Navigation
+
+- 🌉 [Bifröst Blueprints (Design Curriculum)](blueprints/00_readme.md)  
+- 🎓 [Continuing Education Log](continuing_education/course_tracker.md)  
+- 📚 [Folder Structure & System Map](#folder-structure) *(scroll to view)*  
+- 🧠 [Philosophy & Ethics Foundations](philosophy/)  
+- 🗣️ [Tone & Language Design](tone/)  
+- 🧵 [Prompt Translation Tools](prompts/)  
+- 🧪 [Examples & Use Cases](examples/)  
+- 🧬 [Memory & Context Systems](memory/)  
+- 🦊 [Mari Archive: Reflections & Frameworks](mari_archive/)
+
+---
+
 **Project Bifrost** is an exploratory archive of tools, prompts, and frameworks designed to improve emotionally intelligent AI systems—especially in contexts where clear communication is difficult, sensitive, or vital.
 
 Born from lived experience and neurodivergent perspective, this project centers the question:
