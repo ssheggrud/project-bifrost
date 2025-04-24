@@ -49,6 +49,12 @@ _EMR implementation, clinician training, cross-system dashboards._
 
 ---
 
-📥 [Download PDF Résumé](link-to-your-pdf-if-you-want)  
+📄 This page is the shortest form—a high-level summary of experience and goals.
+
+📥 [Download Résumé (Short 2-Page PDF)](sherry_sheggrud_resume_short.pdf)  
+📥 [Download Résumé (Full 4-Page PDF)](sherry_sheggrud_resume_full.pdf)  
+> Want the director’s cut with full career breakdown and context? Grab the full PDF above.
+
+---
 📘 [Return to portfolio README](README.md)  
 🔙 [Return to Project Bifröst Overview](../README.md)
