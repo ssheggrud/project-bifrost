@@ -68,7 +68,7 @@ It is **patient-built**—by those who were and still are talked over, misdiagno
 - `examples/` – use-case logs, test scenarios, communication breakdown samples  
 - `mari_archive/` – quotes, reflections, in-progress frameworks, and AI narrative philosophy  
 - `blueprints/` – modular curriculum for emotionally intelligent system design (Bifröst Blueprints)  
-- `continuing_education/` – tracked coursework in AI ethics, design, privacy, and systems learning
+- `portfolio/` – résumé PDFs, completed course tracker, Credly links, and work samples
 
 [Return to Quick Navigation](#quick-navigation)
 
