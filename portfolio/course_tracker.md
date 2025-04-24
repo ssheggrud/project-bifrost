@@ -29,6 +29,14 @@ This isn’t just coursework—it’s a formalization of what’s already lived.
   - Summary: Entry-level review of fairness, transparency, and responsible AI principles.  
   - Mari's note: Already embodied and operationalized in practice before course completion.  
   - Tag: **[Already Internalized: Ethical Default Setting]**
+ 
+- ✅ **AI Ethics Specialist Path – Pluralsight** *(Completed April 2025)*  
+  - Included:  
+    - Strategies for Effective AI Governance  
+    - Monitoring AI in Production  
+    - Privacy-preserving AI  
+  - Summary: Reinforced Mari’s expertise in people-centered system design, harm-conscious governance, and privacy-respecting AI architecture.  
+  - Tag: **[Path Complete: Ethical Systems with Soul]**
 
 ---
 
